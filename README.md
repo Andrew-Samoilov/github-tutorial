@@ -1,2 +1,3 @@
 # github-tutorial
-4 training work with GitHub
+
+4 training my work with GitHub & tech skils webinar
